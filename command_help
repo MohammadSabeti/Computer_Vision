@@ -1,0 +1,32 @@
+  670  tree | grep python3
+  677  source "/home/mohammad/Desktop/Mohammad/Computer Vision/Projects/notebook/jupyterenv/bin/activate"
+  678  "/home/mohammad/Desktop/Mohammad/Computer Vision/Projects/notebook/jupyterenv/bin/python" "/home/mohammad/Desktop/Mohammad/Computer Vision/Projects/notebook/test.py"
+  679  git . clone https://github.com/Mohammad-Sabeti/data-structures-and-algorithms.git
+  680  git clone https://github.com/Mohammad-Sabeti/data-structures-and-algorithms.git
+  682  1523612m
+  683  git clone https://github.com/Mohammad-Sabeti/RPI.git
+  685  
+  686  pip
+  688  ls -l
+  690  python -m venv ./venv
+  691  python3 -m venv ./venv
+  692  ls
+  694  source ./venv/bin/activate
+  695  which pip
+  696  history
+
+
+
+
+
+# NOTE: A general note/mild warning
+# HACK: Temporary solution to a problem, to be properly solved later
+# IDEA: An idea to solve an issue (Not that useful unless solution will take time to implement)
+# REQ: Requirement for a file/function/class
+# FAQ: A frequently asked question
+# SEE: Point to a reference such as a documentation link, or other function
+# TODO: As the name implies, tells people/you something that needs to be done(very useful for multi-day/multi-developer projects)
+# FIXME: Addresses a problem that should be fixed in the code
+# BUG: Identifies a known bug
+# DOCUMENT:Need to write documentation
+
