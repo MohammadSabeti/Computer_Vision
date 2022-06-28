@@ -1,8 +1,10 @@
-# Ignore venv folder
+# Ignore 
 venv
 Resources/images/output_dir/2022-05-07-1256
 Chapters/chapter09-bird_feeder_monitor/output_gmg
 Chapters/chapter09-bird_feeder_monitor/output_mog
 Resources/src/bird_feeder_monitor/output_gmg/*.jpg
-# Ignore all text files
+API-Key
+
+# Ignore all mp4 files
 *.mp4

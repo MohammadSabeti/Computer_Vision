@@ -1,0 +1,14 @@
+{
+	// two constants, first threshold for detecting if the mailbox is
+	// open, and a second threshold for the number of seconds the
+	// mailbox is open
+	"thresh": 30,
+	"open_threshold_seconds": 15,
+
+	// flag used to indicate if frames must be displayed
+	"display": true,
+	"address_id": "phone",
+	// for telegram sender
+	"token": "5335834721:AAGBvywglGgi4saZIzI3mXmM9Zc5K7u2ucw",
+	"chat_id": "873901865"
+}
